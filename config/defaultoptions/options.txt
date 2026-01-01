@@ -1,0 +1,24 @@
+version:3955
+biomeBlendRadius:3
+enableVsync:true
+entityShadows:true
+fov:0.25
+gamma:1.0
+guiScale:3
+maxFps:260
+renderDistance:8
+simulationDistance:10
+screenEffectScale:0.65
+operatorItemsTab:true
+realmsNotifications:false
+narratorHotkey:false
+resourcePacks:["vanilla","fabric","cobbreeding:pasturefix","highlight:highlight_extended","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","file/Low Fire.zip","file/Emissive Cobblemon Ores.zip","file/Comforts Modernized.zip","file/Classic Grass.zip","file/PokeRods3D.zip","file/Canon PC Wallpapers.zip","file/Cobblemon Interface.zip","file/Cobblemon Interface Modded.zip","file/PokeDiscs.zip","file/Original Pokemon Battle Music.zip","file/JigglyRadio.zip","cobblemon:gyaradosjump","cobblemon:uniqueshinyforms","mega_showdown:gyaradosjumpingmega","mega_showdown:regionbiasmsd","cobblemon:regionbiasforms","file/ATMxMSD RP.zip","file/FullyHisuianStarters RP.zip","file/EeveelutionsReimagined RP.zip","file/SwirlixAndSlurpuff RP.zip","file/OJsAnimations RP.zip","file/PlanetaCobblemon RP.zip","file/GlitchDex RP.zip","file/CavsCobbleMons RP.zip","file/LackingMons RP.zip","file/TDmon RP.zip","file/MelloMons RP.zip","file/MysticMons RP.zip","file/MundialMons RP.zip","file/MissingMons RP.zip","file/HydroReanimodel RP.zip","file/Pokemans RP.zip","file/Navas-Z-A-Mega RP.zip","file/Fresh Animations.zip","file/Fresh Moves.zip","file/Fresh Icons.zip","file/E19 Cobblemon Minimap Icons.zip","file/COBBLEVERSE Soundtrack.zip","file/COBBLEVERSE RCTmod RP.zip","file/COBBLEVERSE RP.zip"]
+chatHeightFocused:0.44082856514084506
+chatHeightUnfocused:0.2537687059859155
+skipMultiplayerWarning:true
+joinedFirstServer:true
+debugifyTelemetry:0
+telemetryOptInExtra:false
+onboardAccessibility:false
+soundCategory_music:0.3327629841549297
+modelPart_cape:false

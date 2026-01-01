@@ -1,0 +1,7 @@
+[waystones]
+	#Allow Pokemon to be used for Waystone teleportation.
+	allowWaystoneTeleport = true
+	#Minimum level to Teleport.
+	waystonesMinLevel = 0
+	#Does the Pokemon need to have Teleport accessible? When disabled, any psychic type can teleport.
+	requireTeleportMove = true
